@@ -7,7 +7,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/srkza)
 
 
-![SrKza GitHub stats](https://github-readme-stats.vercel.app/api?username=srkza&show_icons=true&theme=dracula&count_private=true)
+![SrKza GitHub stats](https://github-readme-stats.vercel.app/api?username=srkzaa&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
